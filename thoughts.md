@@ -13,4 +13,3 @@
 
 ##Thoughts
 1. Starting to get the hang of this.
-2. Still excited about this program.
